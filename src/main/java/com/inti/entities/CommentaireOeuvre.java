@@ -4,7 +4,7 @@ public class CommentaireOeuvre {
 	private Long id;
 	private String titre;
 	private String description;
-	private int note;
+	private int noteeee;
 	
 	public CommentaireOeuvre() {
 		
