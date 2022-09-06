@@ -63,6 +63,6 @@ public class Reservation {
 		return "Reservation [idReservation=" + idReservation + ", dateDebut=" + dateDebut + ", dateFin=" + dateFin
 				+ ", evenement=" + evenement + "]";
 	}
-	
+}
 	
 

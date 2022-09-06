@@ -93,4 +93,5 @@ public class Oeuvre {
 		return "Oeuvre [idOeuvre=" + idOeuvre + ", Nom=" + Nom + ", information=" + information + ", photoOeuvre="
 				+ Arrays.toString(photoOeuvre) + ", prix=" + prix + ", type=" + type + "]";
 	}
+}
 
