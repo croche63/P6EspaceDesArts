@@ -1,6 +1,7 @@
 package com.inti.entities;
 
 public class CommentaireOeuvre {
+
 	private Long id;
 	private String titre;
 	private String description;
@@ -55,9 +56,6 @@ public class CommentaireOeuvre {
 		return "CommentaireOeuvre [id=" + id + ", titre=" + titre + ", description=" + description + ", note=" + note
 				+ "]";
 	}
-	
-	
-	
 	
 
 }
