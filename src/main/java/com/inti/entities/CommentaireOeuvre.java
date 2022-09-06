@@ -5,6 +5,7 @@ public class CommentaireOeuvre {
 	private String titre;
 	private String description;
 	private int noteeee;
+	private int nimportequoi;
 	
 	public CommentaireOeuvre() {
 		
